@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/badgers-ua/" target="blank"><img src="https://avatars.githubusercontent.com/u/106803527?s=200&v=4" width="120" alt="Badgers UA Logo" /></a>
-</p>
-
 <p align="center">SSDT Patch to fix missing speakers sound on Asus Zenbook s13 Oled UX5304VA</br>
 
 # Pre Requirements
